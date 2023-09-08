@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:bookstore xmlns:ns2="com.javaguides.javaxmlparser.jaxb">
+    <book_list>
+        <book>
+            <id>1</id>
+            <title>Effective Java</title>
+            <author>Joshua Bloch</author>
+            <publisher>Amazon</publisher>
+            <isbn>978-0134685991</isbn>
+        </book>
+        <book>
+            <id>2</id>
+            <title>Head First Java</title>
+            <author>Kathy Sierra</author>
+            <publisher>amazon</publisher>
+            <isbn>978-0596009205</isbn>
+        </book>
+    </book_list>
+    <bookstoreName>Amazon Bookstore</bookstoreName>
+    <location>NewYork</location>
+</ns2:bookstore>
